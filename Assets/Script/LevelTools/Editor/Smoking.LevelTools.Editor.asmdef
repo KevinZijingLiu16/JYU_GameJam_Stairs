@@ -1,0 +1,6 @@
+{
+  "name": "Smoking.LevelTools.Editor",
+  "rootNamespace": "Smoking.LevelTools.Editor",
+  "references": ["Smoking.Player"],
+  "includePlatforms": ["Editor"]
+}
